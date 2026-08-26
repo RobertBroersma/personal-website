@@ -1,4 +1,4 @@
-# Astro Starter Kit: Minimal
+# My personal site!
 
 ```sh
 bun create astro@latest -- --template minimal
