@@ -1,4 +1,4 @@
-# My personal site!
+# My personal site
 
 ```sh
 bun create astro@latest -- --template minimal
